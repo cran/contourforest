@@ -1,0 +1,19 @@
+Package: contourforest
+Type: Package
+Title: Contour-Enhanced Forest Plots for Meta-Analysis
+Version: 0.1.0
+Authors@R: 
+    person("Umar", "Hussain", email = "drumarhussain@gmail.com", role = c("aut", "cre"))
+Description: Provides functions to create contour-enhanced forest plots for continuous and binary outcomes in meta-analysis, 
+    including options for prediction intervals, customized colors, and study labeling. Based on 'metafor' and 'ggplot2'.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports: ggplot2, dplyr, metafor, stringr, grid
+Depends: R (>= 4.0.0)
+NeedsCompilation: no
+Packaged: 2025-12-17 11:35:48 UTC; DR. Umar Hussain
+Author: Umar Hussain [aut, cre]
+Maintainer: Umar Hussain <drumarhussain@gmail.com>
+Repository: CRAN
+Date/Publication: 2025-12-22 17:50:02 UTC
