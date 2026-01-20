@@ -1,13 +1,15 @@
-90321f08af80ece91367e01033144d9f *DESCRIPTION
-e6b3c1c6ffcc7700e91b0109e7aea4a1 *LICENSE
-af2df44be0b7dae992e9bd4d38b37141 *NAMESPACE
+03bb72461a0da61a342c0fcd1710b937 *DESCRIPTION
+0b71d45709d528c9bd6d771ee6d6007b *LICENSE
+8769cbfd86f628c3b39a2eb5ae864708 *NAMESPACE
 a1cea8012285bb9ea28e57303fc35902 *R/bcg_dataset.R
+037265acdd224366bd6cdc174391b358 *R/correlation.R
 6f6246d698a713ff09f6d1b4474cc5ff *R/dat1_dataset.R
 b4c9521b03bbb0946e287ffa63f354a0 *R/forest_binary.R
 cf4cdacf6d5d73bcb8d324af463b0ef3 *R/forest_continuous.R
 796b8fc5ae9f2424a0ba366691e1db74 *R/forest_subgroup_binary.R
 72c718457c119376507cad9311ad546a *R/forest_subgroup_continuous.R
-389eb1fd3a01ea3506598a848ae2f252 *R/zzz.R
+85991f2dd7d6c33e5644c3328ddd9fcf *R/prevalence.R
+f91bc13e5509baef53de32d328b4c73a *R/zzz.R
 8439f235c0fe4c72bfb3bca602e64687 *build
 92ba8b632a460f41581bf63000136f1f *man/bcg.Rd
 068854f0329b71787d0de37ef4cee04c *man/dat1.Rd
@@ -15,3 +17,5 @@ cf4cdacf6d5d73bcb8d324af463b0ef3 *R/forest_continuous.R
 0c890f13ee6c9209030e3018ab7c6e89 *man/forest_bin_subgroup.Rd
 e732c8a31bf43c4d25e6b0eee996db89 *man/forest_cont.Rd
 8a04a619e899c0076aabe6fd08dd3f0d *man/forest_cont_subgroup.Rd
+241ca146cb1aa518fddcfb3814c36c1e *man/forest_corr.Rd
+55e503949a8d7e6f6cc0b4c853240e78 *man/forest_prev.Rd
